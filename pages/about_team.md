@@ -21,7 +21,7 @@ tags: about
 ### Associate professors
 
 - Jaco Zwanenburg
-- Jannie Wijnen
+- [Jannie Wijnen] (www.umcutrecht.nl/en/research/researchers/wijnen-jannie-jp)
 - Natalia Petridou
 - Hans Hoogduin
 - Jeanine Prompers
@@ -78,6 +78,7 @@ tags: about
 - Kyungmin Nam
 - Lieke van den Wildenberg
 - Leonard Seelen
+- Inge van Ooijen
 
 ### Students
 
